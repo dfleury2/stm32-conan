@@ -1,0 +1,10 @@
+[settings]
+os=baremetal
+arch=armv7
+compiler=gcc
+compiler.version=12.2
+compiler.libcxx=libstdc++11
+build_type=Debug
+[options]
+[conf]
+[env]
